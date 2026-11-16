@@ -1,7 +1,11 @@
-from turtle import clear
+def main():
+    from turtle import clear
 
 
-print("Hello, World!")
+    print("Hello, World!")
 
 
-clear
+    clear
+
+if __name__ == "__main__":
+    main()
